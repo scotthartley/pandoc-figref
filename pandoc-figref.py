@@ -23,7 +23,7 @@ def figref(key, val, fmt, meta):
             known_labels[kind] = {}
             known_labels[kind][label] = "1"
         return [Str(start)] + [Str(known_labels[kind][label])] + \
-               [Str(end)] + [Str(" ")]
+               [Str(end)]
 
 if __name__ == '__main__':
     toJSONFilter(figref)
