@@ -1,11 +1,11 @@
 # pandoc-figref: A simple pandoc filter for automatically numbering figures (or whatever)
 
-pandoc-figref is a simple tool for automatically numbering (and referencing) figures in a [pandoc][]
-document. As a chemist, I often need to maintain several different types of figures with their own
-separate numbering schemes (e.g., Figures, Schemes, Charts). pandoc-figref allows one to do this
-easily. There are many such tools available, such as the excellent [pandoc-fignos][]. pandoc-figref
-is very simple and specifically designed for chemists writing manuscripts and managing both figures
-and schemes.
+pandoc-figref is a simple tool for automatically numbering (and referencing) figures in a
+[pandoc][] document. As a chemist, I often need to maintain several different types of figures with
+their own separate numbering schemes (e.g., Figures, Schemes, Charts). pandoc-figref allows one to
+do this easily. There are many such tools available, such as the excellent [pandoc-fignos][].
+pandoc-figref is very simple and specifically designed for chemists writing manuscripts and
+managing both figures and schemes.
 
 ## Installation
 
